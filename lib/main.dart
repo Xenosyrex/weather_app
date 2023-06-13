@@ -11,7 +11,7 @@ void main() {
     MaterialApp(
       debugShowCheckedModeBanner: false,
       home: MyApp(),
-      theme: ThemeData.dark(),
+      theme: ThemeData.light(),
     ),
   );
 }
